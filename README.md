@@ -1,1 +1,1 @@
-It is online shopping application
+it is to do app
